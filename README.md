@@ -5,15 +5,15 @@ Welcome to Mozilla Science Lab's Working Open Guide. This guide was created by M
 
 
 ###Who is this Working Open Guide For?
-This guide was created for researchers, grad students, professors, citizen scientists.. **The Working Open Guide is for anyone who is interested in leading or contributing to an open science project, or just learning more.**
+This guide was created for researchers, grad students, professors, citizen scientists.. **The Working Open Guide is for anyone who is interested in leading or contributing to an open science or open research project, or just learning more.**
  
-If you're completely new to "open", section x of this guide will help you understand what working open means, with special attention to working open in the sciences and scientific research. If you've got a pretty good handle on what "open" is and means, and want to dive right into the details of designing and running an open project, skip ahead to section x. If you've got a project up and running and want to grow an strong community of contributors, head over to section x. 
+If you're completely new to "open", section 1 of this guide will help you understand what working open means, with special attention to working open in the sciences and scientific research. If you've got a pretty good handle on what "open" is and means, and want to dive right into the details of designing and running an open project, skip ahead to section 2. If you've got a project up and running and want to grow an strong community of contributors, head over to section 2. 
 
 ###About the format
-This guide can be used step-by-step manual, read from start to finish. Or, you can jump to any section that's most useful to you. You'll notice each section starts with a list of prerequistes for the material, a set of learning goals for that section; we also specify amount of time (roughly) it should take you to complete that section. You'll find a glossary at the end of each section to define key terms. 
+This guide can be used step-by-step manual, read from start to finish. Or, you can jump to any section that's most useful to you. You'll notice each section starts with **a list of prerequistes** for the material, **a set of learning goals** for that section; we also specify the **amount of time** (roughly) it should take you to complete that section. You'll find **a glossary** at the end of each section to define key terms. 
 
 ###Not only is this book about working open, it IS open.
-We encourage you help us improve the guide by adding to and editing the content. To do so, you'll need to know a bit about GitHub, which is a free tool (often used by software developers) for working collaboratively and sharing content and code. GitHub is introduced in section x of this guide, and you can find a good intro tutorial to GitHub here. Once you have a GitHub account and some basic skills with the interface-- check out our "good first bugs" for the Working Open Guide-- these are tasks we need your help with that are good on-ramps for new contributors. Instructions for contributing are below. 
+We encourage you help us improve the guide by adding to and editing the content. To do so, you'll need to know a bit about GitHub, which is a free tool (often used by software developers) for working collaboratively on and sharing content and code. GitHub is introduced in section 2 of this guide, and you can find a good intro tutorial to GitHub here (coming soon). Once you have a GitHub account and some basic skills with the interface-- check out our "good first bugs" for the Working Open Guide listed below-- these are tasks we need your help with that are good on-ramps for new contributors. Instructions for contributing are below. 
 
 ### Help Us Make This Book
 
@@ -31,6 +31,17 @@ To add content to this book, follow these steps:
     ![create](/img/create.png)
 
 This will open a discussion on your proposed changes. If your pull request is merged in, you'll see your changes appear here.
+
+##Good First Bugs
+If you're looking to contribute to the guide-- and we hope you do-- here are a few great places to start.
+ 
+* **Proofread and correct our typos.** If you catch a mistake, fix it!
+* **Define a term.** At the end of each section, there's a glossary of key terms. If we're missing a definition, feel free to add one. If we're missing a term that you think is important or if you find a term confusing, please add the term (and a definition if you've got one) to that section.
+* **Add a personal story or anectdote that helps illustrate a concept.** For example, if you had a successful experience using Roadmapping for your project, or can recall an instance where you worked really well with a contributor, you'd write a **short** paragraph describing that experience and add it to the relevant section. You'll see example anectdotes (in italics) scattered throughout the Guide. These stories will help give readers a sense of how Working Open happens in the real world.
+* **Suggest a diagram or visual that would help explain a concept.** Though the content is a bit abstract, want this guide to include lots of useful and beautiful visuals-- illustrations, diagroams, photos, etc. If you can think of a visual that would help make one of the concpets in the guide more concrete, let us know! We'll be producing custom visuals for the guide and would love to know what you'd like to see. 
+
+If you've knocked off a few of these good first bugs and would like to contribute more... 
+
 
 ## Feedback
 
